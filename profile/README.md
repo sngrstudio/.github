@@ -1,6 +1,6 @@
 # Welcome to [sngr.studio](https://www.sngr.studio) repository.
 
-![header-image](./assets/header-image.jpg)
+![header-image](/assets/header-image.jpg)
 
 Well, hello there! This is the main page of SNGR Studio, a local web agency based in Sampit, Kalimantan Tengah, Indonesia that aims to bring the best of the modern web to our local (and national) community!
 
