@@ -7,3 +7,7 @@ Well, hello there! This is the main page of SNGR Studio, a local web agency base
 That's not a lot to publish since we're new, but please give us some time so we can update and fill up this repository with awesome things!
 
 Our website is at https://www.sngr.studio, feel free to check out!
+
+### Check out also
+
+<div class="contra-hire-me-button" data-analyticsUserId="baa1bd0a-2025-4ccd-a5f1-d5fbaed2f10e" data-theme="light" data-username="radenpioneer"></div><script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
