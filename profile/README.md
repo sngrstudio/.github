@@ -1,9 +1,22 @@
-# Welcome to [sngr.studio](https://www.sngr.studio) repository.
+[![SNGR Studio](/assets/logo-outline.svg)][sngrstudio]
 
-![header-image](/assets/logo-outline.svg)
+SNGR Studio membantu bisnis, UMKM, dan individual untuk meningkatkan presensi di dunia maya melalui tampilan website yang ringan, cepat dan aman.
 
-Well, hello there! This is the main page of SNGR Studio, a local web agency based in Sampit, Kalimantan Tengah, Indonesia that aims to bring the best of the modern web to our local (and national) community!
+*SNGR Studio helps small, medium enterprises and beyond, or individuals to help increase their presence in the World Wide Web through fast, secure and performant web platform.*
 
-That's not a lot to publish since we're new, but please give us some time so we can update and fill up this repository with awesome things!
+## Current Projects
 
-Our website is at https://www.sngr.studio, feel free to check out!
+| [Kotim Bercahaya][kotimbercahaya] | [Surau Ka'bah Madani Lamandau][suraumadani] | [Kotim PKS MB Ketapang][pksmbketapang] |
+| --- | --- | --- |
+| ![Kotim Bercahaya][imgkotimbercahaya] | ![Surau Ka'bah Madani Lamandau][imgsuraumadani] | ![Kotim PKS MB Ketapang][imgpksmbketapang] |
+
+<!--link-->
+[sngrstudio]: https://sngr.studio
+[kotimbercahaya]: https://kotimbercahaya4.netlify.app/
+[suraumadani]: https://suraumadani.com/
+[pksmbketapang]: https://pksmbketapang.org/
+
+<!--img-->
+[imgkotimbercahaya]: https://api.sngr.studio/image/393w/851h/https%3A%2F%2Fkotimbercahaya4.netlify.app
+[imgsuraumadani]: https://api.sngr.studio/image/393w/851h/https%3A%2F%2Fsuraumadani.com
+[imgpksmbketapang]: https://api.sngr.studio/image/393w/851h/https%3A%2F%2Fpksmbketapang.org
