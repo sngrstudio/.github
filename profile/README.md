@@ -4,11 +4,15 @@ SNGR Studio membantu bisnis, UMKM, dan individual untuk meningkatkan presensi di
 
 *SNGR Studio helps small, medium enterprises and beyond, or individuals to help increase their presence in the World Wide Web through fast, secure and performant web platform.*
 
-## Current Projects
+## Karya Saat Ini/*Current Projects*
 
 | [Surau Ka'bah Madani Lamandau][suraumadani] | [PKS MB Ketapang][pksmbketapang] |
 | --- | --- |
 | ![Surau Ka'bah Madani Lamandau][imgsuraumadani] | ![PKS MB Ketapang][imgpksmbketapang] |
+
+## Karya Terdahulu/*Archived Projects*
+
+Lihat [ARCHIVED.md](/ARCHIVED.md). (*See [ARCHIVED.md](/ARCHIVED.md)*)
 
 <!--link-->
 [sngrstudio]: https://sngr.studio
