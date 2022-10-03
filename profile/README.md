@@ -6,17 +6,15 @@ SNGR Studio membantu bisnis, UMKM, dan individual untuk meningkatkan presensi di
 
 ## Current Projects
 
-| [Kotim Bercahaya][kotimbercahaya] | [Surau Ka'bah Madani Lamandau][suraumadani] | [Kotim PKS MB Ketapang][pksmbketapang] |
-| --- | --- | --- |
-| ![Kotim Bercahaya][imgkotimbercahaya] | ![Surau Ka'bah Madani Lamandau][imgsuraumadani] | ![Kotim PKS MB Ketapang][imgpksmbketapang] |
+| [Surau Ka'bah Madani Lamandau][suraumadani] | [PKS MB Ketapang][pksmbketapang] |
+| --- | --- |
+| ![Surau Ka'bah Madani Lamandau][imgsuraumadani] | ![PKS MB Ketapang][imgpksmbketapang] |
 
 <!--link-->
 [sngrstudio]: https://sngr.studio
-[kotimbercahaya]: https://kotimbercahaya4.netlify.app/
 [suraumadani]: https://suraumadani.com/
 [pksmbketapang]: https://pksmbketapang.org/
 
 <!--img-->
-[imgkotimbercahaya]: https://api.sngr.studio/image/393w/851h/https%3A%2F%2Fkotimbercahaya4.netlify.app
 [imgsuraumadani]: https://api.sngr.studio/image/393w/851h/https%3A%2F%2Fsuraumadani.com
 [imgpksmbketapang]: https://api.sngr.studio/image/393w/851h/https%3A%2F%2Fpksmbketapang.org
