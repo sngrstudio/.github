@@ -12,7 +12,7 @@ SNGR Studio membantu bisnis, UMKM, dan individual untuk meningkatkan presensi di
 
 ## Karya Terdahulu/*Archived Projects*
 
-Lihat [ARCHIVED.md](/ARCHIVED.md). (*See [ARCHIVED.md](/ARCHIVED.md)*)
+Lihat [arsip](https://github.com/sngrstudio/archived).
 
 <!--link-->
 [sngrstudio]: https://sngr.studio
